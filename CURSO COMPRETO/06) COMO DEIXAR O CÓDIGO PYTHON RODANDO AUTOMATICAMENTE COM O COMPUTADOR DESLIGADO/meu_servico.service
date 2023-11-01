@@ -1,0 +1,10 @@
+[Unit]
+Description=Exemplo de serviço Python
+
+[Service]
+ExecStart=/usr/bin/python3 /caminho/para/seu_script.py
+Restart=always
+User=seu_usuario
+
+[Install]
+WantedBy=multi-user.target

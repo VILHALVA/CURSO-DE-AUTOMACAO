@@ -2,6 +2,7 @@
 👨‍⚖️AUTOMAÇÃO É O PROCESSO DE REALIZAR TAREFAS OU OPERAÇÕES DE FORMA AUTOMÁTICA, UTILIZANDO MÁQUINAS, EQUIPAMENTOS OU SISTEMAS COMPUTACIONAIS PARA EXECUTAR AS AÇÕES ANTERIORMENTE REALIZADAS POR SERES HUMANOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=automação)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.chatbot.com/docs/)
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLpdAy0tYrnKyjrY1Fr72DhmrRmeWI_5C8&si=F2sBMSQGqDiip0Sd)

@@ -2,15 +2,9 @@
 👨‍⚖️AUTOMAÇÃO É O PROCESSO DE REALIZAR TAREFAS OU OPERAÇÕES DE FORMA AUTOMÁTICA, UTILIZANDO MÁQUINAS, EQUIPAMENTOS OU SISTEMAS COMPUTACIONAIS PARA EXECUTAR AS AÇÕES ANTERIORMENTE REALIZADAS POR SERES HUMANOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=automação)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.chatbot.com/docs/)
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLpdAy0tYrnKyjrY1Fr72DhmrRmeWI_5C8&si=F2sBMSQGqDiip0Sd)
-
-<img src="https://siamcomputing.com/wp-content/uploads/2022/05/Chatbot.png" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 A automação refere-se ao processo de realizar tarefas, operações ou funções com o mínimo de intervenção humana. É a aplicação de tecnologia e sistemas para executar atividades de forma automática, eficiente e programada. A automação pode ser aplicada a uma ampla variedade de domínios, incluindo manufatura, negócios, tecnologia da informação, robótica, sistemas de controle e muito mais. Aqui estão alguns conceitos-chave relacionados à automação:

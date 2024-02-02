@@ -60,7 +60,7 @@ A automação desempenha um papel crítico na otimização de processos, economi
 7. **Treinamento e Qualificação:** A automação exige trabalhadores qualificados para operar e manter sistemas automatizados, o que pode exigir treinamento e educação adicional.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "HASHTAG PROGRAMAÇÃO"](https://youtube.com/playlist?list=PLpdAy0tYrnKyjrY1Fr72DhmrRmeWI_5C8&si=F2sBMSQGqDiip0Sd))
+- [CURSO CRIADO PELO "HASHTAG PROGRAMAÇÃO"](https://youtube.com/playlist?list=PLpdAy0tYrnKyjrY1Fr72DhmrRmeWI_5C8&si=F2sBMSQGqDiip0Sd)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.chatbot.com/docs/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)

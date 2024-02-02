@@ -1,12 +1,9 @@
 # CURSO DE AUTOMACAO
 👨‍⚖️AUTOMAÇÃO É O PROCESSO DE REALIZAR TAREFAS OU OPERAÇÕES DE FORMA AUTOMÁTICA, UTILIZANDO MÁQUINAS, EQUIPAMENTOS OU SISTEMAS COMPUTACIONAIS PARA EXECUTAR AS AÇÕES ANTERIORMENTE REALIZADAS POR SERES HUMANOS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.chatbot.com/docs/)
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLpdAy0tYrnKyjrY1Fr72DhmrRmeWI_5C8&si=F2sBMSQGqDiip0Sd)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 A automação refere-se ao processo de realizar tarefas, operações ou funções com o mínimo de intervenção humana. É a aplicação de tecnologia e sistemas para executar atividades de forma automática, eficiente e programada. A automação pode ser aplicada a uma ampla variedade de domínios, incluindo manufatura, negócios, tecnologia da informação, robótica, sistemas de controle e muito mais. Aqui estão alguns conceitos-chave relacionados à automação:
 
 1. **Processos Repetitivos:** A automação é frequentemente usada para automatizar tarefas ou processos que são repetitivos e previsíveis, economizando tempo e recursos.
@@ -33,8 +30,8 @@ A automação refere-se ao processo de realizar tarefas, operações ou funçõe
 
 A automação desempenha um papel crítico na otimização de processos, economia de recursos e aumento da eficiência em diversas áreas, tornando-se uma parte fundamental da vida cotidiana e do ambiente empresarial moderno. Ela permite a realização de tarefas de forma consistente, rápida e confiável, além de liberar os seres humanos para atividades mais criativas e estratégicas.
 
-# CARACTERISTICAS:
-## Características Positivas da Automação:
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Eficiência:** A automação é altamente eficiente, executando tarefas repetitivas e complexas com velocidade e precisão consistentes, o que pode aumentar a produtividade e reduzir custos operacionais.
 
 2. **Redução de Erros:** Automatizar tarefas ajuda a minimizar erros humanos, o que é crítico em processos onde a precisão é essencial, como na indústria e em tarefas de cálculo.
@@ -47,7 +44,7 @@ A automação desempenha um papel crítico na otimização de processos, economi
 
 6. **Precisão e Consistência:** As máquinas executam tarefas com consistência, seguindo padrões e regras precisas, independentemente do tempo ou da fadiga.
 
-## Características Negativas:
+### NEGATIVAS:
 1. **Desemprego Tecnológico:** A automação pode levar à perda de empregos em setores onde as tarefas são automatizadas, resultando em desemprego e desafios econômicos.
 
 2. **Alto Custo Inicial:** A implementação da automação pode ser cara, com custos significativos associados a aquisição de equipamentos, treinamento e manutenção.
@@ -61,4 +58,10 @@ A automação desempenha um papel crítico na otimização de processos, economi
 6. **Impacto Social e Ético:** A automação levanta questões éticas sobre o papel dos seres humanos no mercado de trabalho, bem como preocupações sobre a privacidade e segurança de dados.
 
 7. **Treinamento e Qualificação:** A automação exige trabalhadores qualificados para operar e manter sistemas automatizados, o que pode exigir treinamento e educação adicional.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "HASHTAG PROGRAMAÇÃO"](https://youtube.com/playlist?list=PLpdAy0tYrnKyjrY1Fr72DhmrRmeWI_5C8&si=F2sBMSQGqDiip0Sd))
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://www.chatbot.com/docs/)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 

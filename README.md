@@ -64,4 +64,5 @@ A automação desempenha um papel crítico na otimização de processos, economi
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.chatbot.com/docs/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:AUTOMACAO)
 
